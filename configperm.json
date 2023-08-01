@@ -1,0 +1,6 @@
+{
+    "Ban e Unban": ["ID", "ID"], // IDs DOS CARGOS PARA BAN E UNBAN
+    "Mute e Unmute": ["ID", "ID"], // IDs DOS CARGOS PARA MUTE E UNMUTE
+    "Lock e Unlock": ["ID", "ID"] // IDs DOS CARGOS PARA LOCK E UNLOCK
+  }
+  

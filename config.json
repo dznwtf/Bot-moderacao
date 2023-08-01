@@ -1,0 +1,24 @@
+{
+  "sqlite": {
+    // O nome do arquivo onde os dados serão armazenados
+    "filename": "data.sqlite"
+  },
+
+  // O token de autenticação do bot (INSIRA SEU TOKEN AQUI)
+  "token": "",
+
+  // O prefixo que precede os comandos do bot
+  "prefix": "!",
+
+  // A cor usada para aparência dos MessageEmbeds (INSIRA UMA COR HEXADECIMAL AQUI, EX: "#ff0000" para vermelho)
+  "embedColor": "#fffff",
+
+  // O ID do proprietário do bot (INSIRA O ID O SEU ID AQUI)
+  "ownerID": "",
+
+  // O URL do webhook para registros de comandos (INSIRA O URL DO WEBHOOK AQUI)
+  "logWebhookURL": "",
+
+  // O ID de do seu servidor específico no Discord (INSIRA O ID DO SERVIDOR AQUI)
+  "serverId": ""
+}

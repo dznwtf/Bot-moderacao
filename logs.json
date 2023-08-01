@@ -1,0 +1,20 @@
+{
+    "messageDeletada": "", // ID DO CANAL para registrar evento de mensagem deletada
+    "MensagemEditada": "", // ID DO CANAL para registrar evento de mensagem editada
+    "CanalCriado": "", // ID DO CANAL para registrar evento de canal criado
+    "CanalEditado": "", // ID DO CANAL para registrar evento de canal editado
+    "CanalExcluido": "", // ID DO CANAL para registrar evento de canal excluído
+    "TrafegoDeVoz": "", // ID DO CANAL para registrar evento de tráfego de voz
+    "Banimentos": "", // ID DO CANAL para registrar evento de banimentos
+    "Desbanimentos": "", // ID DO CANAL para registrar evento de desbanimentos
+    "Expulsao": "", // ID DO CANAL para registrar evento de expulsão de membros
+    "Mute": "", // ID DO CANAL para registrar evento de mute de membros
+    "Entrada": "", // ID DO CANAL para registrar evento de entrada de membros no servidor
+    "Saida": "", // ID DO CANAL para registrar evento de saída de membros do servidor
+    "AutoroleMembro": "", // ID DO CARGO PARA AUTOROLE
+    "AutoroleBot": "", // ID DO CARGO PARA AUTOROLE DE BOT
+    "CargosCriados": "", // ID DO CANAL para registrar evento de criação de cargos
+    "CargosDeletados": "", // ID DO CANAL para registrar evento de exclusão de cargos
+    "CargosEditados": "" // ID DO CANAL para registrar evento de edição de cargos
+  }
+  
